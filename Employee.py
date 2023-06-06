@@ -2,7 +2,7 @@
 class Employee:
 
     # create a class attribute
-    vacation_days = 10
+    vacation_days = 20
 
 
 

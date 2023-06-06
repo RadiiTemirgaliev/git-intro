@@ -30,7 +30,7 @@ class BankAccount:
         print(f'Account Number: {self.account_number}')
         print(f'Current Balance: {self.balance}')
 
-account_1 = BankAccount(123456, 'Radii Temirgaliev', 1000)
+account_1 = BankAccount(123456, 'Radii Temirgaliev', 5000)
 account_2 = BankAccount(234567, 'Alex Maxwell')
 
 

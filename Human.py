@@ -3,7 +3,7 @@ class Human:
     
     # class attributes
     legs = 2
-    hands = 2
+    hands = 4
     head = 1
     ears = 2
 
