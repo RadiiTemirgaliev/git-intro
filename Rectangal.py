@@ -11,7 +11,7 @@ class Rectangle:
     def get_area(self):
         return self.height * self.width
 
-rectangle_1 = Rectangle(2, 4)
+rectangle_1 = Rectangle(17, 22)
 rectangle_2 = Rectangle(2, 6)
 
 print(rectangle_1.get_area())
